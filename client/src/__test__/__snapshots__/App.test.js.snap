@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="App"
+  data-testid="app"
+>
+  <header>
+    <h2>
+      Input an upper limit number
+    </h2>
+    <h2>
+      you will get a median prime number array of the set of prime numbers less than n
+    </h2>
+  </header>
+  <div
+    id="form"
+  >
+    <input
+      data-testid="input"
+      id="numberInput"
+      max="5"
+      min="1"
+      onChange={[Function]}
+      placeholder="please enter a numer..."
+      type="number"
+      value={0}
+    />
+    <input
+      data-testid="submit"
+      id="submit"
+      onClick={[Function]}
+      type="submit"
+    />
+    <div
+      id="result"
+    >
+      <span>
+        Result:
+      </span>
+      <span>
+        
+      </span>
+    </div>
+  </div>
+</div>
+`;
