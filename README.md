@@ -1,5 +1,1 @@
-Answers the following questions:
-
-1. No
-2. Yes,1 year
-3. Char Song
+given an upper limit of n, write a javascript function that will find the median prime number(s) of the set of prime numbers less than n
